@@ -1,5 +1,5 @@
 {
-  "version": "2.7.5",
-  "setup": "https://github.com/rifcobain19sh-max/APA_2025_Update/releases/download/v2.7.5/Setup_AplikasiPelayananAsrama_v2.7.5.exe",
-  "notes": "update Aplikasi Pelayanan Asrama ke versi 2.7.5 terbaru,pembaruan pada fitur filter data, adaptasi dengan format tanggal Ind atau Eng"
+  "version": "2.7.6",
+  "setup": "https://github.com/rifcobain19sh-max/APA_2025_Update/releases/download/v2.7.6/Setup_AplikasiPelayananAsrama_v2.7.6.exe",
+  "notes": "update Aplikasi Pelayanan Asrama ke versi 2.7.6 terbaru,pembaruan pada fitur UKA dan Laundry"
 }
